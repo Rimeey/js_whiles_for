@@ -18,7 +18,7 @@ for (let i = 1; i < 11; i++) {
         } else if (nums < 0) {
             videm++
         }
-        if (nums % 2 == 0 || nums % 2 == 0) {
+        if (nums % 2 == 0 || nums % -2 == 0) {
             parni++
         } else {
             neparni++
